@@ -1,3 +1,4 @@
+var time = 0;
 /*
   Conta il tempo
   Scrivi un programma che dato un numero di secondi, calcoli la quantità di ore, minuti e secondi corrispondenti e
