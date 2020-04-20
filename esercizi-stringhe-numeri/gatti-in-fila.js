@@ -18,3 +18,7 @@
   http://www.imparareaprogrammare.it
 */
 let cats = 44;
+let raws = 6;
+
+console.log(Math.round(cats/raws));
+console.log(cats%raws);
